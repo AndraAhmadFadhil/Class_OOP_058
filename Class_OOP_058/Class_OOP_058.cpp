@@ -8,3 +8,10 @@ private:
 	float nilai;
 public:
 	void input() {
+		cout << "Masukkan NIM : ";
+		cin >> nim;
+		cout << "\nMasukkan Nama : ";
+		cin >> nama;
+		cout << "\nMasukkan Nilai : ";
+		cin >> nilai;
+	}
