@@ -28,3 +28,4 @@ void Mahasiswa::printData() {
 class matakuliah {
 private:
 	string kode;
+	string namaMK;
