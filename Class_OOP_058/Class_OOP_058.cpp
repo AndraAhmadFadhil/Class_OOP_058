@@ -5,3 +5,4 @@ class Mahasiswa {
 private:
 	string nim;
 	string nama;
+	float nilai;
