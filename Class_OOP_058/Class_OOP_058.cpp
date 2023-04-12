@@ -15,3 +15,5 @@ public:
 		cout << "\nMasukkan Nilai : ";
 		cin >> nilai;
 	}
+	void printData();
+};
