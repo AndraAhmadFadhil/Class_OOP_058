@@ -17,3 +17,14 @@ public:
 	}
 	void printData();
 };
+
+void Mahasiswa::printData() {
+	cout << "\nData Mahasiwa";
+	cout << "\nNIM : " << nim;
+	cout << "\nNamanya : " << nama;
+	cout << "\nnilai : " << nilai;
+}
+
+class matakuliah {
+private:
+	string kode;
